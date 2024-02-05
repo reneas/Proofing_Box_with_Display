@@ -5,7 +5,9 @@
 - Adafruit ST7735 1.8" 128x160 pixel TFT display
 - Two buttons
 - One Relais
-- A halogen lamp
+## Additional "Hardware"
+- A halogen lamp / any other suitable heating element 
+- An insulated box (styropor or something similar)
  
 ## Used Software:
 - VSCode
